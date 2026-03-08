@@ -57,19 +57,19 @@ header {
 @keyframes headerSlider {
 
     0% {
-        background-image: url("sw11.jpg");
+        background-image: url("sw11.webp");
     }
 
     33% {
-        background-image: url("sw3.jpg");
+        background-image: url("sw3.webp");
     }
 
     66% {
-        background-image: url("gr3.jpg");
+        background-image: url("gr3.webp");
     }
 
     100% {
-        background-image: url("tu4.jpg");
+        background-image: url("tu4.webp");
     }
 
 }
@@ -449,3 +449,4 @@ footer {
     }
 
 }
+
