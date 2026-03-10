@@ -641,4 +641,8 @@ nav a{
   color: white;
   font-size: 18px;
 }
+    copy{
+        text-align: center;
+    }
 }
+
