@@ -9,7 +9,7 @@
 body {
     margin: 0;
     font-family: Arial;
-    background: #ff9658;
+    background: #1b2838;
     color: white;
 }
 
@@ -68,7 +68,7 @@ nav a:hover {
 
 .site {
 
-    background: #ec7a38;
+    background: #2a475e;
     padding: 10px;
     text-align: center;
     transition: 0.4s;
@@ -91,7 +91,7 @@ nav a:hover {
 
 
 .site-footer {
-    background: #ec7a38;
+    background: rgba(24, 28, 36, 0.9);
     backdrop-filter: blur(8px);
     color: white;
     padding: 40px 20px 20px 20px;
@@ -121,7 +121,7 @@ nav a:hover {
 
 .footer-bottom {
     text-align: center;
-    border-top: 1px solid #ec7a38;
+    border-top: 1px solid #2a475e;
     padding-top: 15px;
     margin-top: 20px;
     font-size: 14px;
